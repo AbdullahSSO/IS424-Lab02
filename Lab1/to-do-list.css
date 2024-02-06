@@ -1,0 +1,26 @@
+/*
+Abdullah Saad ALotaibi 441102763
+*/
+.my-list {
+  background-color: #f7f381;
+  width: 500px;
+  border: 1px solid #f7f381;
+  box-shadow: 0 0 10px 2px #333333;
+  padding: 8px 24px;
+  font-size: 30px;
+
+}
+
+p {
+  text-align: center;
+}
+
+ol {
+  margin: 12px;
+}
+
+body {
+  display: flex;
+
+  justify-content: center;
+}
